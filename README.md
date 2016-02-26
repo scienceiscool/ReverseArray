@@ -1,14 +1,14 @@
-Challenge name: Arrays- DS
-Submission status: Successful
-Time complexity: O(n)
+**Challenge name:** Arrays- DS<br>
+**Submission status:** Successful<br>
+**Time complexity:** O(n)<br>
 
-Input format:
-first line - N (number of integers)
-second line - N integers separated by a space
+**Input format:**<br>
+first line - N (number of integers)<br>
+second line - N integers separated by a space<br>
 
-Sample input:
-4
-1 4 3 2
+**Sample input:**<br>
+4<br>
+1 4 3 2<br>
 
-Sample output:
+**Sample output:**<br>
 2 3 4 1
