@@ -1,10 +1,7 @@
 **Challenge name:** Arrays- DS<br>
 **Submission status:** Successful<br>
 **Time complexity:** O(n)<br>
-
-**Input format:**<br>
-first line - N (number of integers)<br>
-second line - N integers separated by a space<br>
+**Link:** https://www.hackerrank.com/challenges/arrays-ds<br>
 
 **Sample input:**<br>
 4<br>
